@@ -1,0 +1,104 @@
+#container {
+  text-align: center;
+
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 50%;
+  transform: translateY(-50%);
+}
+
+#container strong {
+  font-size: 20px;
+  line-height: 26px;
+}
+
+#container p {
+  font-size: 16px;
+  line-height: 22px;
+
+  color: #8c8c8c;
+
+  margin: 0;
+}
+
+#container a {
+  text-decoration: none;
+}
+.photo{
+  margin: auto;
+  width: 50%;
+  padding: 10px;
+}
+.main{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  
+}
+.content{
+  padding-top: 20px;
+  padding-right: 5cm;
+}
+.name{
+  padding-right: 70px;
+}
+.main1
+{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  
+}
+.content{
+  padding-top: 20px;
+  padding-right: 0cm;
+}
+.gender{
+  padding-right: 80px;
+}
+.main2
+{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  
+}
+.age
+{
+  padding-right: 175px;
+}
+.content{
+  padding-top: 20px;
+  padding-right: 0cm;
+}
+.main3
+{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  
+}
+.email
+{
+  padding-right: 20px;
+}
+.content{
+  padding-top: 20px;
+  padding-right: 0cm;
+}
+.main4
+{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  padding-right: 280px;
+}
+.photo{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+
